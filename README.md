@@ -4,7 +4,7 @@
 ## Как запустить
 1. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/твой_ник/Calculator.git
+   git clone https://github.com/brU-caT/Calculator.git
 
 2. Скомпилируй программу:
    ```bash
